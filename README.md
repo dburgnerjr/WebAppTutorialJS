@@ -1,0 +1,1 @@
+In 2018, I created a simple library app that created a test database, provided a list of books, along with adding, modifying and deleting a book and deleting the entire list.  This was based off of a tutorial I found online (see https://www.codeproject.com/articles/JavaScript-Front-End-Web-App-Tutorial-Part for details).

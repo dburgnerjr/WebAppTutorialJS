@@ -3,10 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <title>Minimal JS front-end App Example</title>
-  <script src="src/initialize.js"></script>
+  <!-- <script src="src/initialize.js"></script> -->
   <script src="src/model/Book.js"></script>
   <script src="src/view/listBooks.js"></script>
   <script>
+   var pl = { model:{}, view:{}, ctrl:{} };
    window.addEventListener( "load", pl.view.listBooks.setupUserInterface);
   </script>
 </head>
